@@ -12,7 +12,7 @@ Yo - I am Lauren. Deal with it.
 
 <br>
 
-###   [**research**](./research.html) | [**cv**](./data/cv.pdf) | [**github**](https://github.com/lschilling21) | [**lab**](https://www.meredith-rowe.com/lab)
+###   [**research**](./research.html) | [**cv**](./data/cv.pdf) | [**github**](https://github.com/laurenpschilling) | [**lab**](https://www.meredith-rowe.com/lab)
 
 <img src="./data/lauren.jpeg" width="500">
 
