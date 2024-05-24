@@ -1,0 +1,7 @@
+---
+title: "Research"
+output: html_document
+---
+-------------------
+### **Posters**
+Schilling, L. P., & Cooper Borkenhagen, M. J., & Seidenberg, M. S. (2020). Words children are taught differ from those they read and hear: Evidence from a popular reading curriculum. 2019 Conference for the Wisconsin Center for Education Research. [[pdf](./data/schilling_etal_2020_wcer.pdf)

@@ -1,0 +1,5 @@
+---
+title: "About me"
+output: html_document
+---
+I grew up in the beautiful north woods of the great state of Wisconsin.
